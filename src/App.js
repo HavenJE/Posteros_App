@@ -1,25 +1,33 @@
-import logo from './logo.svg';
-import './App.css';
+
+import Logo from './components/Logo';
+// import { BrowserRouter, Link } from 'react-router-dom'
+// import styled from 'styled-components';
+// import Pages from "./pages/Pages";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+
+      <Logo />
+
     </div>
   );
 }
+
+// const Logo = styled.div`
+//   font-size: 3rem; 
+//   font-weight: 300; 
+//   Logo::second-letter {
+//     color: rgb(221, 157, 38);  
+//   }
+// `
+
+// const Nav = styled.div`
+//   padding: 2rem 0rem; 
+//   display: flex; 
+//   justify-content: center; 
+//   align-items: center; 
+//   color: rgb(30, 190, 190); 
+// `
 
 export default App;

@@ -1,0 +1,21 @@
+create react-ap with: 
+=> npx create-react-app app-name 
+
+class component require render method 
+
+Add {JavaScript code}
+
+Each React element needs a unique identifier key => to make it easier for React to update a particular element on the DOM 
+
+you can run the file using: 
+=> node 
+
+And then: 
+=> .load index.js 
+you can search for the variable you created, normally you could use your tab and it will be shown as a shadow 
+
+Now, to check if your instance has been created, open another termial for your mongoose and write: 
+=> use movieApp
+and then: 
+=> db.movies.find()
+
