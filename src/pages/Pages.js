@@ -1,8 +1,10 @@
-
+import AboutUs from "./AboutUs"
 
 function Pages() {
   return (
-    <div>Pages</div>
+    <div>
+      <AboutUs/>
+    </div>
   )
 }
 

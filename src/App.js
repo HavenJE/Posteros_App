@@ -1,5 +1,6 @@
 
 import Logo from './components/Logo';
+import AboutUs from './pages/AboutUs';
 // import { BrowserRouter, Link } from 'react-router-dom'
 // import styled from 'styled-components';
 // import Pages from "./pages/Pages";
@@ -9,7 +10,7 @@ function App() {
     <div className="App">
 
       <Logo />
-
+      <AboutUs/>
     </div>
   );
 }
