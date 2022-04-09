@@ -1,4 +1,4 @@
-import AboutUs from "./AboutUs"
+import AboutUs from "./aboutUs/About_img1"
 
 function Pages() {
   return (

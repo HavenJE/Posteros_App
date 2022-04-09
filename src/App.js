@@ -1,34 +1,32 @@
 
+import './App.css';
 import Logo from './components/Logo';
-import AboutUs from './pages/AboutUs';
-// import { BrowserRouter, Link } from 'react-router-dom'
-// import styled from 'styled-components';
-// import Pages from "./pages/Pages";
+import Main from './components/Main';
+import Contact from './components/Contact';
+import FirstCarousel from './components/FirstCarousel';
+// import About_img1 from './pages/aboutUs/About_img1';
+// import About_img3 from './pages/aboutUs/About_img3';
+// import ab_Images from './assets/ab_Images';
+
 
 function App() {
+
   return (
     <div className="App">
-
       <Logo />
-      <AboutUs/>
+
+      <div className='first-ab-image-outer-div'>
+        
+        <div className='inner-div'>
+          <Main />
+          <Contact />
+          
+        </div>
+      </div>
+
     </div>
   );
 }
 
-// const Logo = styled.div`
-//   font-size: 3rem; 
-//   font-weight: 300; 
-//   Logo::second-letter {
-//     color: rgb(221, 157, 38);  
-//   }
-// `
-
-// const Nav = styled.div`
-//   padding: 2rem 0rem; 
-//   display: flex; 
-//   justify-content: center; 
-//   align-items: center; 
-//   color: rgb(30, 190, 190); 
-// `
 
 export default App;
