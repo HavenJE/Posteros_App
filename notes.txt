@@ -69,3 +69,16 @@ To install React Bootstrap
 
 Remember: folderes names have to be capitalised for the images to be imported e.g. Logo foloder 
 
+When doing Navbar with Routes, remember the New Syntax:
+
+1. <Switch> has been replaced by <Routes> 
+2. and component with element e.g. 
+
+<Routes>
+    <Route path="/home" element={<Home/>} />
+</Routes>
+
+For bootstrap 5 spacing important info - check: https://getbootstrap.com/docs/5.1/utilities/spacing/
+
+When doing text-align: center; you need to remove diplay: flex; 
+justify-content: center; & align-items: center; work with diplay: flex; 

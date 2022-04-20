@@ -48,7 +48,7 @@ function Contact() {
 
                 </Form.Group>
 
-                <Button variant="outline-dark" type="submit" className="button">
+                <Button variant="outline-secondary" type="submit" className="contactButton">
                     Click to submit
                 </Button>
             </Form>
