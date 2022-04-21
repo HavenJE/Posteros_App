@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/Posteros_App/static/css/main.eb0b283d.css",
-    "main.js": "/Posteros_App/static/js/main.1451758f.js",
-    "static/media/Slide1v1.jpg": "/Posteros_App/static/media/Slide1v1.2fdc512cf67e75ee92e0.jpg",
+    "main.css": "/Posteros_App/static/css/main.3792ed4b.css",
+    "main.js": "/Posteros_App/static/js/main.36a6813f.js",
+    "static/media/ContactUs1.jpg": "/Posteros_App/static/media/ContactUs1.8ff253491866fa16fe6a.jpg",
+    "static/media/Slide1v4.jpg": "/Posteros_App/static/media/Slide1v4.158abb4cbc8f0f89241c.jpg",
     "static/media/img2.jpg": "/Posteros_App/static/media/img2.23f4ce78c02369cb16af.jpg",
     "static/media/img1.jpg": "/Posteros_App/static/media/img1.1b193e370574198bde0f.jpg",
     "static/media/img3.jpg": "/Posteros_App/static/media/img3.29c792de299c111c40e9.jpg",
     "index.html": "/Posteros_App/index.html",
-    "main.eb0b283d.css.map": "/Posteros_App/static/css/main.eb0b283d.css.map",
-    "main.1451758f.js.map": "/Posteros_App/static/js/main.1451758f.js.map"
+    "main.3792ed4b.css.map": "/Posteros_App/static/css/main.3792ed4b.css.map",
+    "main.36a6813f.js.map": "/Posteros_App/static/js/main.36a6813f.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb0b283d.css",
-    "static/js/main.1451758f.js"
+    "static/css/main.3792ed4b.css",
+    "static/js/main.36a6813f.js"
   ]
 }
