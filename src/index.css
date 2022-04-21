@@ -78,82 +78,13 @@ code {
   }
 } */
 
-.about_us-container {
-  margin: 10px 500px;
-  height: 50vh;
-}
-
-.about_us-container,
-h1,
-h6,
-p {
-  background-color: rgb(255, 255, 255);
-  color: rgb(6, 0, 0);
-}
-
-.about_us-h1 {
-  margin: 5px 10px;
-  justify-content: start;
-  font-family: 'DM Sans', sans-serif;
-  padding-top: 30px;
-  padding-left: 30px;
-}
-
-.about_us-h6 {
-  margin: 0px 20px;
-  justify-content: start;
-  font-family: 'DM Sans', sans-serif;
-  padding-left: 20px;
-}
-
-.about_us-container>p {
-  margin: auto;
-  width: 70%;
-  display: block;
-}
-
-.about_us-p1 {
-  padding: 60px 40px;
-  line-height: 1.5;
-  display: inline-block;
-  vertical-align: middle;
-  text-align: center;
-  font-size: 18px;
-}
-
-.about_us-p2 {
-  line-height: 200px;
-  padding: 0 40px;
-  display: inline-block;
-  vertical-align: middle;
-  line-height: 1.5;
-  text-align: center;
-  font-size: 18px;
-}
-
 .main {
   text-align: center;
   width: 100%;
   height: auto;
   overflow: hidden;
-
+  margin-top: 43px;
 }
-
-/* .container > img:hover {
-  opacity: 0.1;
-  transition: opacity 1s ease-in-out;
-  
-} */
-
-/* .container:hover .overlay {
-  display: block;
-  float: left;
-  transition: opacity 1s ease-in-out;
-  cursor: pointer;
-  justify-content: center;
-  align-items: center;
-  align-content: center;
-} */
 
 .container-fluid {
   /* width: 500px;
@@ -181,7 +112,7 @@ p {
   position: absolute;
   top: 0;
   left: 5px;
-  
+
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -201,7 +132,7 @@ p {
   transition: transform 0.4s;
 }
 
-.container-fluid:hover .overlay > * {
+.container-fluid:hover .overlay>* {
   transform: translateY(0);
 }
 
@@ -223,7 +154,6 @@ p {
   align-items: center;
   text-align: center;
   font-size: 15px;
- 
 
   font-family: 'Architects Daughter', cursive;
   font-family: 'Cormorant', serif;
@@ -246,7 +176,6 @@ p {
 .container-fluid .handUp {
   margin-top: 5px;
   color: white;
-  
 }
 
 /* Footer */
@@ -286,6 +215,44 @@ p {
 }
 
 .contact-container {
+  width: 100%;
+  height:auto;
+  border: 5px solid rgb(0, 0, 0);
+  margin: 30px 0px;
+  text-align: center;
+
+}
+
+.contact-container .container-fluid {
+  position: relative;
+  /* border: 2px solid blue; */
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  
+}
+
+ .contactImage {
+  /* border: 3px solid cyan; */
+  display: inline;
+  position: relative;
+  max-width: 280px;
+  max-height: 470px;
+  /* margin-left: 100px; */
+  
+  
+}
+
+ .ContactForm {
+  /* border: 2px solid black; */
+  display: inline;
+  position: relatiave;
+  text-align: left;
+}
+
+
+
+/* .contact-container {
   border: 3px solid rgb(28, 219, 219);
   width: 60rem;
   height: 35rem;
@@ -293,8 +260,13 @@ p {
   padding: 40px;
   position: relative;
   left: 20%;
-}
+} */
 
+/* AboutUs Slide */
+.backgroundImg {
+  width: 100%;
+  height: 100%;
+}
 
 /* .carousel1-contaier > .carousel1 .carousel2 .carousel3 > img {
   width: 100px;

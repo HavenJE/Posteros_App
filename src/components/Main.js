@@ -19,9 +19,9 @@ function Main() {
                             </div>
 
                             <div className='overlayButton'>
-                                <Button variant="outline-secondary">
-                                    <a href="" style={{ textDecoration: 'none', color: 'black', fontWeight: '600' }}> About Us</a>
-                                </Button>
+                                <a href="" style={{ textDecoration: 'none', color: 'black', fontWeight: '600' }} >
+                                    <Button variant="outline-secondary"> About Us </Button>
+                                </a>
                             </div>
                             <div className='handUp'>
                                 <FaHandPointUp/>
@@ -41,9 +41,9 @@ function Main() {
                             </div>
 
                             <div className='overlayButton'>
-                                <Button variant="outline-secondary">
-                                    <a href="" style={{ textDecoration: 'none', color: 'black', fontWeight: '600' }}> What We Do</a>
-                                </Button>
+                                <a href="" style={{ textDecoration: 'none', color: 'black', fontWeight: '600' }}>
+                                    <Button variant="outline-secondary" > What We Do</Button>
+                                </a>
                             </div>
                             <div className='handUp'>
                                 <FaHandPointUp />
@@ -63,9 +63,9 @@ function Main() {
                             </div>
 
                             <div className='overlayButton'>
-                                <Button variant="outline-secondary">
-                                    <a href="" style={{ textDecoration: 'none', color: 'black', fontWeight: '600' }}> How We Do It</a>
-                                </Button>
+                                <a href="" style={{ textDecoration: 'none', color: 'black', fontWeight: '600' }}>
+                                    <Button variant="outline-secondary"> How We Do It</Button>
+                                </a>
                             </div>
                             <div className='handUp'>
                                 <FaHandPointUp/>

@@ -5,7 +5,6 @@ import NavbarComp from './NavbarComp';
 import Main from './Main';
 import Footer from './Footer';
 
-
 function Home() {
     return (
         <div>
