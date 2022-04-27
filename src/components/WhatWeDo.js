@@ -7,62 +7,62 @@ import img3 from '../assets/WeDo_Images/Slide3.jpg';
 import img4 from '../assets/WeDo_Images/Slide4.jpg';
 import img5 from '../assets/WeDo_Images/Slide5.jpg';
 
-
 function WhatWeDo() {
   return (
     <div className='whatWeDoSlides'>
-           <div className='col-xlg-7 col-lg-7 col-md-7'>
-                <div className='container-fluid'>
-                    <Carousel fade>
-                        <Carousel.Item >
-                            <img
-                                className="d-block w-100"
-                                src={img1}
-                                alt="First slide"
-                                width={800}
-                                
-                            />
-                        </Carousel.Item>
+      <div className='col-xlg-7 col-lg-7 col-md-7'>
+        <div className='container-fluid'>
+          
+          <Carousel fade>
+            <Carousel.Item >
+              <img
+                className="d-block w-100"
+                src={img1}
+                alt="First slide"
+                width={800}
 
-                        <Carousel.Item>
-                            <img
-                                className="d-block w-100"
-                                src={img2}
-                                alt="Second slide"
-                                width={800}
-                            />
-                        </Carousel.Item>
+              />
+            </Carousel.Item>
 
-                        <Carousel.Item>
-                            <img
-                                className="d-block w-100"
-                                src={img3}
-                                alt="Third slide"
-                                width={800}
-                            />
-                        </Carousel.Item>
+            <Carousel.Item>
+              <img
+                className="d-block w-100"
+                src={img2}
+                alt="Second slide"
+                width={800}
+              />
+            </Carousel.Item>
 
-                        <Carousel.Item>
-                            <img
-                                className="d-block w-100"
-                                src={img4}
-                                alt="Third slide"
-                                width={800}
-                            />
-                        </Carousel.Item>
+            <Carousel.Item>
+              <img
+                className="d-block w-100"
+                src={img3}
+                alt="Third slide"
+                width={800}
+              />
+            </Carousel.Item>
 
-                        <Carousel.Item>
-                            <img
-                                className="d-block w-100"
-                                src={img5}
-                                alt="Third slide"
-                                width={800}
-                            />
-                        </Carousel.Item>
+            <Carousel.Item>
+              <img
+                className="d-block w-100"
+                src={img4}
+                alt="Third slide"
+                width={800}
+              />
+            </Carousel.Item>
 
-                    </Carousel>
-                </div>
-            </div>
+            <Carousel.Item>
+              <img
+                className="d-block w-100"
+                src={img5}
+                alt="Third slide"
+                width={800}
+              />
+            </Carousel.Item>
+
+          </Carousel>
+        </div>
+      </div>
     </div>
   )
 }

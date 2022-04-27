@@ -252,7 +252,7 @@ code {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 80vh;
+  height: 100vh;
 
   background-image: url(../src/assets/Ab_images/Slide1v6.jpg);
   background-size: cover;
@@ -261,14 +261,30 @@ code {
   background-repeat: no-repeat;
 }
 
+/* What We Do Section */
 .whatWeDoSlides {
   position: relative;
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 80vh;
+  height: 100vh;
 
   background-image: url(../src/assets/WeDo_Images/BackgroundImg3.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/* How WWe Do It Section */
+.howWeDoIt {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+  background-image: url(../src/assets/HowWe_images/backgroundImg.jpg);
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
