@@ -1,13 +1,12 @@
 import React from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Carousel from 'react-bootstrap/Carousel';
-import img1 from '../assets/Ab_images/Slide1m.jpg';
-import img2 from '../assets/Ab_images/Slide2m.jpg';
-import img3 from '../assets/Ab_images/Slide3m.jpg';
-import img4 from '../assets/Ab_images/Slide4m.jpg';
-import img5 from '../assets/Ab_images/Slide5m.jpg';
-import img6 from '../assets/Ab_images/Slide6m.jpg';
-import img7 from '../assets/Ab_images/Slide7m.jpg';
+import img1 from '../assets/WeDo_Images/Slide1.jpg';
+import img2 from '../assets/WeDo_Images/Slide2.jpg';
+import img3 from '../assets/WeDo_Images/Slide3.jpg';
+import img4 from '../assets/WeDo_Images/Slide4.jpg';
+import img5 from '../assets/WeDo_Images/Slide5.jpg';
+
 
 function WhatWeDo() {
   return (
@@ -61,23 +60,6 @@ function WhatWeDo() {
                             />
                         </Carousel.Item>
 
-                        <Carousel.Item>
-                            <img
-                                className="d-block w-100"
-                                src={img6}
-                                alt="Third slide"
-                                width={800}
-                            />
-                        </Carousel.Item>
-
-                        <Carousel.Item>
-                            <img
-                                className="d-block w-100"
-                                src={img7}
-                                alt="Third slide"
-                                width={800}
-                            />
-                        </Carousel.Item>
                     </Carousel>
                 </div>
             </div>
