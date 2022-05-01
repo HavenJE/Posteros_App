@@ -1,18 +1,32 @@
 {
   "files": {
-    "main.css": "/Posteros_App/static/css/main.3792ed4b.css",
-    "main.js": "/Posteros_App/static/js/main.36a6813f.js",
+    "main.css": "/Posteros_App/static/css/main.a54097ea.css",
+    "main.js": "/Posteros_App/static/js/main.1e63d666.js",
     "static/media/ContactUs1.jpg": "/Posteros_App/static/media/ContactUs1.8ff253491866fa16fe6a.jpg",
-    "static/media/Slide1v4.jpg": "/Posteros_App/static/media/Slide1v4.158abb4cbc8f0f89241c.jpg",
+    "static/media/Slide1v7.jpg": "/Posteros_App/static/media/Slide1v7.50b399251501db38ca7a.jpg",
+    "static/media/BackgroundImg4.jpg": "/Posteros_App/static/media/BackgroundImg4.beab4f8cd7db24479b18.jpg",
+    "static/media/backgroundImg3.jpg": "/Posteros_App/static/media/backgroundImg3.7bb3cf5a22009b913b04.jpg",
+    "static/media/Slide5m.jpg": "/Posteros_App/static/media/Slide5m.137b55240e19c9d27516.jpg",
+    "static/media/Slide7m.jpg": "/Posteros_App/static/media/Slide7m.f1c42882e553d3165c54.jpg",
+    "static/media/Slide3m.jpg": "/Posteros_App/static/media/Slide3m.f6589c1af4d6f6f94cf6.jpg",
+    "static/media/Slide4m.jpg": "/Posteros_App/static/media/Slide4m.98aa33c1891e85506d4e.jpg",
+    "static/media/Slide1m.jpg": "/Posteros_App/static/media/Slide1m.a8cc4d4b1676088ae430.jpg",
+    "static/media/Slide2m.jpg": "/Posteros_App/static/media/Slide2m.0507e140ec061fc3d8b7.jpg",
+    "static/media/Slide6m.jpg": "/Posteros_App/static/media/Slide6m.3e115fd2c4580b0f11f1.jpg",
+    "static/media/Slide2.jpg": "/Posteros_App/static/media/Slide2.88bd65130e0b3afc379a.jpg",
+    "static/media/Slide4.jpg": "/Posteros_App/static/media/Slide4.33eb04669eab23bd851d.jpg",
+    "static/media/Slide3.jpg": "/Posteros_App/static/media/Slide3.dfff2690b56e92bcab58.jpg",
+    "static/media/Slide1.jpg": "/Posteros_App/static/media/Slide1.346c7a049a01d93db213.jpg",
+    "static/media/Slide5.jpg": "/Posteros_App/static/media/Slide5.a656818e4e9b02282bd6.jpg",
     "static/media/img2.jpg": "/Posteros_App/static/media/img2.23f4ce78c02369cb16af.jpg",
     "static/media/img1.jpg": "/Posteros_App/static/media/img1.1b193e370574198bde0f.jpg",
     "static/media/img3.jpg": "/Posteros_App/static/media/img3.29c792de299c111c40e9.jpg",
     "index.html": "/Posteros_App/index.html",
-    "main.3792ed4b.css.map": "/Posteros_App/static/css/main.3792ed4b.css.map",
-    "main.36a6813f.js.map": "/Posteros_App/static/js/main.36a6813f.js.map"
+    "main.a54097ea.css.map": "/Posteros_App/static/css/main.a54097ea.css.map",
+    "main.1e63d666.js.map": "/Posteros_App/static/js/main.1e63d666.js.map"
   },
   "entrypoints": [
-    "static/css/main.3792ed4b.css",
-    "static/js/main.36a6813f.js"
+    "static/css/main.a54097ea.css",
+    "static/js/main.1e63d666.js"
   ]
 }
