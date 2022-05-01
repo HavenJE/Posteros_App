@@ -88,5 +88,5 @@ target='_blank' - however, this may have a security issue according to Google - 
 rel='noopener, noreferrer'
 
 To push your React App to Github pages - open your package.json file, and then: 
-1. add "homepage": "https://HavenJE.github.io/Repo-name",
+1. add "homepage": "http://HavenJE.github.io/Repo-name",
 
