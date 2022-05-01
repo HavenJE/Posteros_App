@@ -19,7 +19,7 @@ function Main() {
                             </div>
 
                             <div className='overlayButton'>
-                                <a href="" style={{ textDecoration: 'none', color: 'black', fontWeight: '600' }} >
+                                <a href="AboutUs" style={{ textDecoration: 'none', color: 'black', fontWeight: '600' }} >
                                     <Button variant="outline-secondary"> About Us </Button>
                                 </a>
                             </div>
@@ -41,7 +41,7 @@ function Main() {
                             </div>
 
                             <div className='overlayButton'>
-                                <a href="" style={{ textDecoration: 'none', color: 'black', fontWeight: '600' }}>
+                                <a href="WhatWeDo" style={{ textDecoration: 'none', color: 'black', fontWeight: '600' }}>
                                     <Button variant="outline-secondary" > What We Do</Button>
                                 </a>
                             </div>
@@ -63,7 +63,7 @@ function Main() {
                             </div>
 
                             <div className='overlayButton'>
-                                <a href="" style={{ textDecoration: 'none', color: 'black', fontWeight: '600' }}>
+                                <a href="HowWeDoIt" style={{ textDecoration: 'none', color: 'black', fontWeight: '600' }}>
                                     <Button variant="outline-secondary"> How We Do It</Button>
                                 </a>
                             </div>

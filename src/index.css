@@ -40,44 +40,6 @@ code {
     monospace;
 }
 
-/* .Container {
-  display: grid;
-  height: 100vh;
-
-  grid-template-rows: auto 1fr auto;
-  gap: 20px;
-}
-
-@media (min-width: 720px) {
-
-  .container {
-    grid-template-columns: repeat(12, 1fr);
-  }
-
-  .header {
-    grid-column: 1 / span 12;
-  }
-
-  .main {
-    grid-column: 1 / span 12;
-  }
-
-  .footer {
-    grid-column: 1 / span 12;
-  }
-}
-
-@media (min-width: 1020px) {
-
-  .main {
-    grid-column: 1 / span 12;
-  }
-
-  .footer {
-    grid-column: 1 / span 12;
-  }
-} */
-
 .main {
   text-align: center;
   width: 100%;
@@ -252,9 +214,9 @@ code {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  height: 120vh;
 
-  background-image: url(../src/assets/Ab_images/Slide1v6.jpg);
+  background-image: url(../src/assets/Ab_images/Slide1v7.jpg);
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
@@ -267,9 +229,9 @@ code {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  height: 120vh;
 
-  background-image: url(../src/assets/WeDo_Images/BackgroundImg3.jpg);
+  background-image: url(../src/assets/WeDo_Images/BackgroundImg4.jpg);
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
@@ -282,14 +244,52 @@ code {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  height: 120vh;
 
-  background-image: url(../src/assets/HowWe_images/backgroundImg.jpg);
+  background-image: url(../src/assets/HowWe_images/backgroundImg3.jpg);
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
 }
+
+/* .Container {
+  display: grid;
+  height: 100vh;
+
+  grid-template-rows: auto 1fr auto;
+  gap: 20px;
+}
+
+@media (min-width: 720px) {
+
+  .container {
+    grid-template-columns: repeat(12, 1fr);
+  }
+
+  .header {
+    grid-column: 1 / span 12;
+  }
+
+  .main {
+    grid-column: 1 / span 12;
+  }
+
+  .footer {
+    grid-column: 1 / span 12;
+  }
+}
+
+@media (min-width: 1020px) {
+
+  .main {
+    grid-column: 1 / span 12;
+  }
+
+  .footer {
+    grid-column: 1 / span 12;
+  }
+} */
 
 /* .carousel1-contaier > .carousel1 .carousel2 .carousel3 > img {
   width: 100px;

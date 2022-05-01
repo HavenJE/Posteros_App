@@ -10,9 +10,9 @@ import img5 from '../assets/WeDo_Images/Slide5.jpg';
 function WhatWeDo() {
   return (
     <div className='whatWeDoSlides'>
-      <div className='col-xlg-7 col-lg-7 col-md-7'>
+      <div className='col-xlg-8 col-lg-8 col-md-8'>
         <div className='container-fluid'>
-          
+
           <Carousel fade>
             <Carousel.Item >
               <img

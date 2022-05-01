@@ -82,3 +82,8 @@ For bootstrap 5 spacing important info - check: https://getbootstrap.com/docs/5.
 
 When doing text-align: center; you need to remove diplay: flex; 
 justify-content: center; & align-items: center; work with diplay: flex; 
+
+To make a component opens in a new tab use:
+target='_blank' - however, this may have a security issue according to Google - what you need to add is 
+rel='noopener, noreferrer'
+
