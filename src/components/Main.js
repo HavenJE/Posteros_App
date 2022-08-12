@@ -4,6 +4,7 @@ import img3 from '../assets/HowWe_images/img3.jpg'
 import { Button } from 'react-bootstrap'
 import { FaHandPointUp } from 'react-icons/fa'
 
+
 function Main() {
     return (
         <div className='main'>
@@ -19,12 +20,14 @@ function Main() {
                             </div>
 
                             <div className='overlayButton'>
-                                <a href="/AboutUs" style={{ textDecoration: 'none', color: 'black', fontWeight: '600' }} >
-                                    <Button variant="outline-secondary"> About Us </Button>
-                                </a>
+                                
+                                    <a href="/AboutUs" style={{ textDecoration: 'none', color: 'black', fontWeight: '600' }} >
+                                        <Button variant="outline-secondary"> About Us </Button>
+                                    </a>
+                              
                             </div>
                             <div className='handUp'>
-                                <FaHandPointUp/>
+                                <FaHandPointUp />
                             </div>
                         </div>
                     </div>
@@ -33,7 +36,7 @@ function Main() {
                 <div className='col-lg-4 col-md-4'>
 
                     <div className='container-fluid'>
-                        <img src={img2} alt='' className='img-fluid' width={500} height={400}  />
+                        <img src={img2} alt='' className='img-fluid' width={500} height={400} />
 
                         <div className='overlay'>
                             <div className="phrase">
@@ -55,7 +58,7 @@ function Main() {
                 <div className='col-lg-4 col-md-4'>
 
                     <div className='container-fluid'>
-                        <img src={img3} alt='' className='img-fluid' width={500} height={400}  />
+                        <img src={img3} alt='' className='img-fluid' width={500} height={400} />
 
                         <div className='overlay'>
                             <div className="phrase" >
@@ -68,7 +71,7 @@ function Main() {
                                 </a>
                             </div>
                             <div className='handUp'>
-                                <FaHandPointUp/>
+                                <FaHandPointUp />
                             </div>
                         </div>
                     </div>
