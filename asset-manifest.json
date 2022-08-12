@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Posteros_App/static/css/main.a54097ea.css",
-    "main.js": "/Posteros_App/static/js/main.1e63d666.js",
+    "main.js": "/Posteros_App/static/js/main.5586ec87.js",
     "static/media/ContactUs1.jpg": "/Posteros_App/static/media/ContactUs1.8ff253491866fa16fe6a.jpg",
     "static/media/Slide1v7.jpg": "/Posteros_App/static/media/Slide1v7.50b399251501db38ca7a.jpg",
     "static/media/BackgroundImg4.jpg": "/Posteros_App/static/media/BackgroundImg4.beab4f8cd7db24479b18.jpg",
@@ -23,10 +23,10 @@
     "static/media/img3.jpg": "/Posteros_App/static/media/img3.29c792de299c111c40e9.jpg",
     "index.html": "/Posteros_App/index.html",
     "main.a54097ea.css.map": "/Posteros_App/static/css/main.a54097ea.css.map",
-    "main.1e63d666.js.map": "/Posteros_App/static/js/main.1e63d666.js.map"
+    "main.5586ec87.js.map": "/Posteros_App/static/js/main.5586ec87.js.map"
   },
   "entrypoints": [
     "static/css/main.a54097ea.css",
-    "static/js/main.1e63d666.js"
+    "static/js/main.5586ec87.js"
   ]
 }
