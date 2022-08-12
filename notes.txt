@@ -34,6 +34,20 @@ Create React App
 Run command to install npm: 
 => sudo apt install npm
 
+-------------------------------------------------------
+To install the most stable Node verions, do:
+=> sudo n stable
+
+To install that Node version e.g. 16.16.0, do:
+=> nvm install 16.16.0
+
+To double check the installed version do:
+=> npm version
+
+If you update VScode, it may go to an old Node & npm version, make sure to use the most udpated version by:
+=> nvm use 16.16.0 // if that is the more updated one🤦‍♂️
+--------------------------------------------------------------
+
 App.js contains Pages.jsx 
 Pages.jsx contains Home.jsx
 Home.jsx contains both Popular & Veggie.jsx 

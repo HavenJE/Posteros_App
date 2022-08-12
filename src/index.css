@@ -128,7 +128,7 @@ code {
 
 .container-fluid .overlayButton {
   border: 2px solid black;
-  border-radius: 50%;
+  /* border-radius: 70%; */
   font-size: 15px;
   background-color: rgb(253, 253, 253);
   /* display: inline-block; */
