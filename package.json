@@ -1,7 +1,7 @@
 {
   "name": "posteros-app",
   "version": "0.1.0",
-  "homepage": "https://HavenJE.github.io/Posteros_App/index.html",
+  "homepage": "https://HavenJE.github.io/Posteros_App/",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.6.2",

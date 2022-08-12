@@ -20,11 +20,9 @@ function Main() {
                             </div>
 
                             <div className='overlayButton'>
-                                
-                                    <a href="/AboutUs" style={{ textDecoration: 'none', color: 'black', fontWeight: '600' }} >
-                                        <Button variant="outline-secondary"> About Us </Button>
-                                    </a>
-                              
+                                <a href="/AboutUs" style={{ textDecoration: 'none', color: 'black', fontWeight: '600' }} >
+                                    <Button variant="outline-secondary"> About Us </Button>
+                                </a>
                             </div>
                             <div className='handUp'>
                                 <FaHandPointUp />
